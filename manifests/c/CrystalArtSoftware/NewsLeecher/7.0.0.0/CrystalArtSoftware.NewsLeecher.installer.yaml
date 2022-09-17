@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.1.0.schema.json
 
 PackageIdentifier: CrystalArtSoftware.NewsLeecher
-PackageVersion: 7.0.0.0
+PackageVersion: v7.0 Final
 Installers:
 - Architecture: x86
   InstallerType: inno
